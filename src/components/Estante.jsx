@@ -1,6 +1,8 @@
+import "./Estante.css";
+
 function Estante() {
   return (
-    <div>
+    <div className="estante-container">
       Estante Funciona!
     </div>
   );
