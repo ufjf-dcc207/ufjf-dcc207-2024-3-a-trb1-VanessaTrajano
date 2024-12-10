@@ -1,6 +1,8 @@
+import "./Livro.css";
+
 function Livro() {
   return (
-    <div>
+    <div className="livro-container">
       LIVRO FUNCIONA
     </div>
   );
