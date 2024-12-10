@@ -1,9 +1,18 @@
 import "./Estante.css";
+import Livro from "./Livro";
 
-function Estante() {
+function Estante({ genero, listaLivros }) {
   return (
     <div className="estante-container">
-      Estante Funciona!
+      <h2>Estante de livros de {genero}</h2>
+      <Livro
+        capa={""}
+        titulo={"Livro 1"}
+        autor={"Autor 1"}
+        ano={"XXX1"}
+        classificacao={1}
+        link={"link1"}
+      />
     </div>
   );
 }
