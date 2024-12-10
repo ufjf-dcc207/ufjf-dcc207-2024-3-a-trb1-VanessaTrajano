@@ -1,8 +1,14 @@
-# React + Vite
+# Biblioteca React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descrição
+Atividade desenvolvida para a matéria DCC207 - Desenvolvimento Web Front-End da UFJF.
 
-Currently, two official plugins are available:
+## Autor
+Vanessa Palmeira Kelmer Trajano
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Linguagem utilizada
+
+  <div style="display: flex">
+    <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
