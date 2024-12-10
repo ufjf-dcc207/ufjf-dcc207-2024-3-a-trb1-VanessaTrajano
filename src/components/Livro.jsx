@@ -1,14 +1,14 @@
 import "./Livro.css";
 
-function Livro() {
+function Livro({capa, titulo, autor, ano, classificacao}) {
   return (
     <div className="livro-container">
-      <img src="" alt="capa do livro 1" />
+      <img src={capa} alt={`Capa do livro ${titulo}`} />
           <div>
-            <h3>livro 1</h3>
-            <p>Autor: xxxxxxxxxxxx</p>
-            <p>Ano de publicação: XXXX</p>
-            <p>Classificação: ★★★★★</p>
+            <h3>{titulo}</h3>
+            <p>Autor: {autor}</p>
+            <p>Ano de publicação: {ano}</p>
+            <p>Classificação: {"★".repeat(classificacao)}</p>
           </div>
     </div>
   );
