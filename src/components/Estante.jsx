@@ -6,16 +6,18 @@ function Estante({ genero, listaLivros }) {
     <div className="estante-container">
       <h2>Estante de livros de {genero}</h2>
       <div>
-        {listaLivros.map(livro => (
+        {listaLivros
+          .filter((livro) => livro.genero == genero)
+          .map((livro) => (
             <Livro
-            capa={livro.img}
-            titulo={livro.titulo}
-            autor={livro.autor}
-            ano={livro.ano}
-            classificacao={livro.classificacao}
-            link={livro.link}
-          />
-        ))}
+              capa={livro.img}
+              titulo={livro.titulo}
+              autor={livro.autor}
+              ano={livro.ano}
+              classificacao={livro.classificacao}
+              link={livro.link}
+            />
+          ))}
       </div>
     </div>
   );
