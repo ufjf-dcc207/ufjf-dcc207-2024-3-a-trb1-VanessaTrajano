@@ -9,7 +9,7 @@ const livros = [
     ano: "1605",
     classificacao: 4,
     link: "",
-    genero: "Aventura", // aventura ou ficção
+    genero: "Aventura",
   }, 
   {
     img: "",
@@ -72,7 +72,7 @@ const livros = [
     ano: "1925",
     classificacao: 5,
     link: "",
-    genero: "Ficção", // ficção ou romance
+    genero: "Romance",
   }, 
   {
     img: "",
@@ -99,7 +99,7 @@ const livros = [
     ano: "1844",
     classificacao: 5,
     link: "",
-    genero: "Aventura", // aventura ou ficção
+    genero: "Aventura",
   }, 
   {
     img: "",
@@ -117,7 +117,7 @@ const livros = [
     ano: "1967",
     classificacao: 5,
     link: "",
-    genero: "Romance", // romance ou ficção
+    genero: "Romance",
   }, 
   {
     img: "",
