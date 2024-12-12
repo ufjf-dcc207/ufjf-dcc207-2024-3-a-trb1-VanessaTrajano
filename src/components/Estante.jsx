@@ -5,7 +5,7 @@ function Estante({ genero, listaLivros }) {
   return (
     <div className="estante-container">
       <h2>Estante de livros de {genero}</h2>
-      <div>
+      <div className="livros-container">
         {listaLivros
           .filter((livro) => livro.genero == genero)
           .map((livro) => (
