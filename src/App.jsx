@@ -8,7 +8,7 @@ const livros = [
     autor: "Miguel de Cervantes",
     ano: "1605",
     classificacao: 4,
-    link: "",
+    link: "https://amzn.to/3ZM6vf1",
     genero: "Aventura",
   }, 
   {
@@ -17,7 +17,7 @@ const livros = [
     autor: "Jane Austen",
     ano: "1813",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/3ZtiQn3",
     genero: "Romance",
   }, 
   {
@@ -26,7 +26,7 @@ const livros = [
     autor: "George Orwell",
     ano: "1949",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/4fgjdHs",
     genero: "Ficção",
   }, 
   {
@@ -35,7 +35,7 @@ const livros = [
     autor: "Emily Brontë",
     ano: "1847",
     classificacao: 4,
-    link: "",
+    link: "https://amzn.to/3DaO76J",
     genero: "Romance",
   }, 
   {
@@ -44,7 +44,7 @@ const livros = [
     autor: "Herman Melville",
     ano: "1851",
     classificacao: 4,
-    link: "",
+    link: "https://amzn.to/3OPujrV",
     genero: "Aventura",
   }, 
   {
@@ -53,7 +53,7 @@ const livros = [
     autor: "Fiódor Dostoiévski",
     ano: "1866",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/4fe6DIJ",
     genero: "Ficção",
   }, 
   {
@@ -62,7 +62,7 @@ const livros = [
     autor: "Oscar Wilde",
     ano: "1890",
     classificacao: 4,
-    link: "",
+    link: "https://amzn.to/3ZOGwDE",
     genero: "Ficção",
   }, 
   {
@@ -71,7 +71,7 @@ const livros = [
     autor: "F. Scott Fitzgerald",
     ano: "1925",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/4g6JARt",
     genero: "Romance",
   }, 
   {
@@ -80,7 +80,7 @@ const livros = [
     autor: "Liev Tolstói",
     ano: "1877",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/3D80dh1",
     genero: "Romance",
   }, 
   {
@@ -89,7 +89,7 @@ const livros = [
     autor: "Mary Shelley",
     ano: "1818",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/41vRcsi",
     genero: "Ficção",
   }, 
   {
@@ -98,7 +98,7 @@ const livros = [
     autor: "Alexandre Dumas",
     ano: "1844",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/3ZA3uNk",
     genero: "Aventura",
   }, 
   {
@@ -107,7 +107,7 @@ const livros = [
     autor: "J.D. Salinger",
     ano: "1951",
     classificacao: 4,
-    link: "",
+    link: "https://amzn.to/4fbrxrP",
     genero: "Ficção",
   }, 
   {
@@ -116,7 +116,7 @@ const livros = [
     autor: "Gabriel García Márquez",
     ano: "1967",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/4gbp2Hg",
     genero: "Romance",
   }, 
   {
@@ -125,7 +125,7 @@ const livros = [
     autor: "Machado de Assis",
     ano: "1899",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/4grIL5i",
     genero: "Romance",
   }, 
   {
@@ -134,7 +134,7 @@ const livros = [
     autor: "Guimarães Rosa",
     ano: "1956",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/3D8sJyN",
     genero: "Romance",
   }, 
   {
@@ -143,7 +143,7 @@ const livros = [
     autor: "Machado de Assis",
     ano: "1881",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/4fhxJyL",
     genero: "Romance",
   }, 
   {
@@ -152,7 +152,7 @@ const livros = [
     autor: "Graciliano Ramos",
     ano: "1938",
     classificacao: 5,
-    link: "",
+    link: "https://amzn.to/49yPjwS",
     genero: "Ficção",
   }, 
 ]
