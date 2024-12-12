@@ -1,9 +1,10 @@
 import "./App.css";
 import Estante from "./components/Estante";
+import * as images from "./assets"
 
 const livros = [
   {
-    img: "",
+    img: images.domQuixote,
     titulo: "Dom Quixote",
     autor: "Miguel de Cervantes",
     ano: "1605",
@@ -12,7 +13,7 @@ const livros = [
     genero: "Aventura",
   }, 
   {
-    img: "",
+    img: images.orgulhoEPreconceito,
     titulo: "Orgulho e Preconceito",
     autor: "Jane Austen",
     ano: "1813",
@@ -21,7 +22,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.l1984,
     titulo: "1984",
     autor: "George Orwell",
     ano: "1949",
@@ -30,7 +31,7 @@ const livros = [
     genero: "Ficção",
   }, 
   {
-    img: "",
+    img: images.oMorroDosVentosUivantes,
     titulo: "O Morro dos Ventos Uivantes",
     autor: "Emily Brontë",
     ano: "1847",
@@ -39,7 +40,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.mobyDick,
     titulo: "Moby Dick",
     autor: "Herman Melville",
     ano: "1851",
@@ -48,7 +49,7 @@ const livros = [
     genero: "Aventura",
   }, 
   {
-    img: "",
+    img: images.crimeECastigo,
     titulo: "Crime e Castigo",
     autor: "Fiódor Dostoiévski",
     ano: "1866",
@@ -57,7 +58,7 @@ const livros = [
     genero: "Ficção",
   }, 
   {
-    img: "",
+    img: images.oRetratoDeDorianGray,
     titulo: "O Retrato de Dorian Gray",
     autor: "Oscar Wilde",
     ano: "1890",
@@ -66,7 +67,7 @@ const livros = [
     genero: "Ficção",
   }, 
   {
-    img: "",
+    img: images.oGrandeGatsby,
     titulo: "O Grande Gatsby",
     autor: "F. Scott Fitzgerald",
     ano: "1925",
@@ -75,7 +76,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.annaKariemima,
     titulo: "Anna Karenina",
     autor: "Liev Tolstói",
     ano: "1877",
@@ -84,7 +85,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.frankenstein,
     titulo: "Frankenstein",
     autor: "Mary Shelley",
     ano: "1818",
@@ -93,7 +94,7 @@ const livros = [
     genero: "Ficção",
   }, 
   {
-    img: "",
+    img: images.oCondeDeMonteCristo,
     titulo: "O Conde de Monte Cristo",
     autor: "Alexandre Dumas",
     ano: "1844",
@@ -102,7 +103,7 @@ const livros = [
     genero: "Aventura",
   }, 
   {
-    img: "",
+    img: images.oApanhadorNoCampoDeCenteio,
     titulo: "O Apanhador no Campo de Centeio",
     autor: "J.D. Salinger",
     ano: "1951",
@@ -111,7 +112,7 @@ const livros = [
     genero: "Ficção",
   }, 
   {
-    img: "",
+    img: images.cemAnosDeSolidao,
     titulo: "Cem Anos de Solidão",
     autor: "Gabriel García Márquez",
     ano: "1967",
@@ -120,7 +121,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.domCasmurro,
     titulo: "Dom Casmurro",
     autor: "Machado de Assis",
     ano: "1899",
@@ -129,7 +130,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.grandeSertaoVeredas,
     titulo: "Grande Sertão: Veredas",
     autor: "Guimarães Rosa",
     ano: "1956",
@@ -138,7 +139,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.memoriasPostumasDeBrasCubas,
     titulo: "Memórias Póstumas de Brás Cubas",
     autor: "Machado de Assis",
     ano: "1881",
@@ -147,7 +148,7 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: "",
+    img: images.vidasSecas,
     titulo: "Vidas Secas",
     autor: "Graciliano Ramos",
     ano: "1938",
