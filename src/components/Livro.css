@@ -1,9 +1,22 @@
 .livro-container{
-    border: 1px solid brown;
-    width: 28%;
-    height: 20vh;
+    background-color: #422514;
+    border-radius: 10px;
+    width: 25rem;
+    height: fit-content;
     padding: 0.8rem;
     display: flex;
     align-items: center;
     justify-content: space-around;
+
+    img{
+        width: 40%;
+    }
+
+    .info-container{
+        width: 55%;
+        line-height: 1.8rem;
+        h3{
+            line-height: 1.2rem;
+        }
+    }
 }

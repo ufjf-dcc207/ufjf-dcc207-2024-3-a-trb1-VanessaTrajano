@@ -1,5 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Marcellus+SC&family=Silkscreen:wght@400;700&display=swap');
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "Marcellus SC";
+  color: #ccaf8e;
+}
+
+.app-container{
+  background-color: #ccaf8e;
+
+  h1{
+    color: #422514;
+    text-align: center;
+    padding: 1rem 0;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+  }
 }

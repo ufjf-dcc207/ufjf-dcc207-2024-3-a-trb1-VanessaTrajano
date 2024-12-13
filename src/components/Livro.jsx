@@ -4,7 +4,7 @@ function Livro({capa, titulo, autor, ano, classificacao, link}) {
   return (
     <div className="livro-container">
       <img src={capa} alt={`Capa do livro ${titulo}`} />
-          <div>
+          <div className="info-container">
             <h3>{titulo}</h3>
             <p>Autor: {autor}</p>
             <p>Ano de publicação: {ano}</p>
