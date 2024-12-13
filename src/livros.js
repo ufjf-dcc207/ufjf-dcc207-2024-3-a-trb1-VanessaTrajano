@@ -74,8 +74,8 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: images.annaKariemima,
-    titulo: "Anna Karenina",
+    img: images.annaKarienina,
+    titulo: "Anna Karienina",
     autor: "Liev Tolstói",
     ano: "1877",
     classificacao: 5,

@@ -1,6 +1,6 @@
 import domQuixote from "./dom_quixote.jpg";
 import l1984 from "./1984.jpg";
-import annaKariemima from "./anna_karienina.jpg";
+import annaKarienina from "./anna_karienina.jpg";
 import cemAnosDeSolidao from "./cem_anos_de_solidao.jpg";
 import crimeECastigo from "./crime_e_castigo.jpg";
 import domCasmurro from "./dom_casmurro.jpg";
@@ -20,7 +20,7 @@ export {
   domCasmurro,
   domQuixote,
   l1984,
-  annaKariemima,
+  annaKarienina,
   cemAnosDeSolidao,
   crimeECastigo,
   frankenstein,
