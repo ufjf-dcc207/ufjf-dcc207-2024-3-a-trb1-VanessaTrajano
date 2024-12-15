@@ -4,7 +4,7 @@ import livros from './livros.js'
 
 function App() {
   return (
-    <div>
+    <div className="app-container">
       <h1>Biblioteca React</h1>
       <Estante genero={"Aventura"} listaLivros={livros}/>
       <Estante genero={"Romance"} listaLivros={livros}/>

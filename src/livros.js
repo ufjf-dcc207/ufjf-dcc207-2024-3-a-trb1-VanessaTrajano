@@ -74,8 +74,8 @@ const livros = [
     genero: "Romance",
   }, 
   {
-    img: images.annaKariemima,
-    titulo: "Anna Karenina",
+    img: images.annaKarienina,
+    titulo: "Anna Karienina",
     autor: "Liev Tolstói",
     ano: "1877",
     classificacao: 5,
@@ -153,6 +153,15 @@ const livros = [
     classificacao: 5,
     link: "https://amzn.to/49yPjwS",
     genero: "Ficção",
+  }, 
+  {
+    img: images.noitesBrancas,
+    titulo: "Noites Brancas",
+    autor: "Fiódor Dostoiévski",
+    ano: "1848",
+    classificacao: 5,
+    link: "https://amzn.to/49B2ltN",
+    genero: "Romance",
   }, 
 ]
 
