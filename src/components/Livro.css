@@ -41,6 +41,7 @@
             transition: 0.5s;
             &:hover{
                 cursor: pointer;
+                text-decoration: underline;
                 box-shadow: 5px 5px 5px #6e4228;                
             }
         }
