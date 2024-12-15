@@ -154,6 +154,15 @@ const livros = [
     link: "https://amzn.to/49yPjwS",
     genero: "Ficção",
   }, 
+  {
+    img: images.noitesBrancas,
+    titulo: "Noites Brancas",
+    autor: "Fiódor Dostoiévski",
+    ano: "1848",
+    classificacao: 5,
+    link: "https://amzn.to/49B2ltN",
+    genero: "Romance",
+  }, 
 ]
 
 export default livros;

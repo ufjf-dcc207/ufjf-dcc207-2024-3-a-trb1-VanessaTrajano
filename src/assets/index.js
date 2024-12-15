@@ -15,6 +15,7 @@ import oMorroDosVentosUivantes from "./o_morro_dos_ventos_uivantes.jpg";
 import oRetratoDeDorianGray from "./o_retrato_de_dorian_gray.jpg";
 import orgulhoEPreconceito from "./orgulho_e_preconceito.jpg";
 import vidasSecas from "./vidas_secas.jpg";
+import noitesBrancas from "./noites_brancas.jpg"
 
 export {
   domCasmurro,
@@ -34,4 +35,5 @@ export {
   oRetratoDeDorianGray,
   orgulhoEPreconceito,
   vidasSecas,
+  noitesBrancas,
 };
